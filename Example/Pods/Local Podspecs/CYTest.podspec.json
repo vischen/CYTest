@@ -1,0 +1,22 @@
+{
+  "name": "CYTest",
+  "version": "0.1.0",
+  "summary": "A short description of CYTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vismy/CYTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vismy": "vischen@mcttechnology.com"
+  },
+  "source": {
+    "git": "https://github.com/vismy/CYTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CYTest/Classes/**/*"
+}
